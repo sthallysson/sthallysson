@@ -1,7 +1,7 @@
 ### Oi 👋🏼, Eu sou Thallysson ^^ 
  <div style="">
   <a href="https://github.com/sthallysson">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=sthallysson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=sthallysson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthallysson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div> 
