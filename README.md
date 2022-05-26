@@ -1,7 +1,7 @@
 # Hi 👋, I'm Thallysson ^^ 
 #### About me:
 - 🔎 I'm looking for my first job as a developer
-- 💻 I'm web developer
+- 💻 I'm frontend developer
 - 🌱 I'm currently learning NextJS
 - ⚡ Fun fact: i loved animes & rock
 
