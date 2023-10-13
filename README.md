@@ -3,7 +3,6 @@
 - 🔎 I'm looking for my first job as a developer
 - 💻 I'm frontend developer
 - 🌱 I'm currently learning React and NextJS
-- ⚡ Fun fact: i loved animes & rock
 
 ## 🛠  Tech Stack
 <div style="display: inline_block"><br>
